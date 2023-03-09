@@ -1,0 +1,10 @@
+h1, h2 {
+  font-family: Lato;
+}
+
+.path {
+  font-weight: bolder;
+}
+.value {
+  color: blue;
+}
