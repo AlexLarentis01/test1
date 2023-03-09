@@ -28,6 +28,13 @@ const obj2 = {
     age: 42,
   },
 };
+
+
+
+function createObjectDifferenceList(obj1, obj2){
+  return []
+}
+
 const list = createObjectDifferenceList(obj1, obj2);
 render(list);
 
