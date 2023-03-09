@@ -30,7 +30,7 @@ export function createObjectDifferenceList(
     { path: 'obj1.subobj1.attr', oldValue: 'Johannes', newValue: 'Albert' },
   ];
   // TODO fill the diffList with differences of objects
-
+  let myDiffList = []
 
   return myDiffList;
 }
